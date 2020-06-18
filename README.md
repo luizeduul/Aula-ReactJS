@@ -18,12 +18,11 @@
 <p>Esse projeto poderá ser alterado no futuro</p>
 
 ---
-      
+     
 ## Como utilizar 
 <p>Faça um clone desse projeto em sua máquina</p><br>
-<p>Utilize o yarn install ou npm install para fazer a instalação das dependências desse projeto</p>
+<p>Utilize o <strong>yarn install</strong> ou <strong>npm install</strong> para fazer a instalação das dependências desse projeto</p>
 <p>Após completar toda a instalação, execute o comando:</p>
-
 <p><strong>yarn start</strong> : Se tudo tiver dado certo, irá abrir no navegador: localhost:3000 com a aplicação funcionando</p>
 
 ---
