@@ -7,6 +7,12 @@
 
 <p>Desenvolvido com o auxilio dos vídeos gratuitos de programação com ReactJS da Rocketseat</p>
 
+## Índice
+- [Descrição](#descrição)
+- [Como utilizar](#como-utilizar)
+- [Preview do projeto](#preview-do-projeto)
+- [Tecnologias Utilizadas](#tecnologias)
+
 ## Descrição
 <p>Projeto somente para aprendizado. Faz uma busca em api e exibe uma lista de produtos, tendo a possibilidade de visualizar os detalhes dos itens, bem como possui paginação.</p>
 <p>Esse projeto poderá ser alterado no futuro</p>
@@ -19,6 +25,15 @@
 <p>Após completar toda a instalação, execute o comando:</p>
 
 <p><strong>yarn start</strong> : Se tudo tiver dado certo, irá abrir no navegador: localhost:3000 com a aplicação funcionando</p>
+
+---
+
+## Preview do projeto
+
+<h3>Web</h3>
+<p align="center">
+  <img alt="web" src="https://ik.imagekit.io/8qmbx6p1dq/Assets/ezgif.com-optimize_9GGTIN-ET.gif"/>
+</p>
 
 ---
 
