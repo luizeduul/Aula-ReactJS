@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "acorn": "^7.1.1",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "kind-of": "^6.0.3",
     "minimist": "1.2.3",
     "react": "^16.11.0",
